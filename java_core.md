@@ -1,5 +1,11 @@
 # java_core
 
+# 类的命名
+
+类名和文件名相同，区分大小写。比如 `class Hello` 的文件名为Hello.java
+
+
+
 ## 1, 原始数据类型
 * 整型
     int
